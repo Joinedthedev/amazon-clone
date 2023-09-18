@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+   }
+
+   /*The main essence of this idex .css is for global styles. 
+   I added the above to get rid of the default browser styling*/
