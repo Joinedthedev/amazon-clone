@@ -24,7 +24,7 @@ const Product =  ({ id, title, image, price, rating }) => {
 
       <img src={image} alt="" />
 
-      <button id="btn">add to basket</button>
+      <button id="btn">Add to Cart</button>
     </div>
   );
 };
