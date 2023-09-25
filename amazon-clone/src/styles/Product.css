@@ -20,7 +20,7 @@ width: 100%;
     margin-top: 2px;
     border-color: #a88734 #9c7e31 #846a29;
     color: #111;
-    padding: 2.5px;
+    padding: 5px;
     border-radius: 5px;
 }
 
@@ -36,7 +36,7 @@ width: 100%;
 
 .product-rating{
     display: flex;
-    
+
 }
 
 
