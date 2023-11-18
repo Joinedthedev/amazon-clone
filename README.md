@@ -1,2 +1,2 @@
 # amazon-clone
-Amazon Clone 
+A fullstack Amazon Clone created to learn the in and outs of react
